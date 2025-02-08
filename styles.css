@@ -50,7 +50,9 @@
 
 #destinations {
     display: flex;
-    width: 100%;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
 }
 
 .destination img {
